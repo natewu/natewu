@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 ![](https://komarev.com/ghpvc/?username=natewu)
 
