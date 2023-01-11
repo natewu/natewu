@@ -23,9 +23,13 @@ jobs:
 
 
       - name: generate-snake-game-from-github-contribution-grid
+          # You may pin to the exact commit or the version.
+          # uses: Platane/snk@1526ced25e3c39ff3d41af01a6f9981b046b6744
         uses: Platane/snk@v1.1.4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # github user name
+          github_user_name: natewu
+          # path of the generated gif file. If left empty, the gif file will not be generated.
+          gif_out_path: snake.gif
+          # path of the generated svg file. If left empty, the svg file will not be generated.
+          svg_out_path: snake.svg
