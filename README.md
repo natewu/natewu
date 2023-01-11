@@ -10,7 +10,7 @@
 
 <div align="left" style="display: flex; flex-flow: column nowrap; width: 100%;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=natewu" 
+    src="https://github-readme-stats-rongronggg9.vercel.app/api?username=natewu&count_private=true&include_all_commits=true&show_icons=true" 
     align="left"
     height="150" alt="stats graph"  
   />
