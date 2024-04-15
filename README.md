@@ -52,3 +52,6 @@
 <img align="center" src="https://raw.githubusercontent.com/natewu/natewu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">Contact</h2>
+<p align="left">Message me on <a href="https://linkedin.com/in/natewu/">LinkedIn</a> to work together :rocket:</h2>
